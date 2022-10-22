@@ -1,0 +1,7 @@
+Lista de coisas a se fazer no programa!
+
+- Adicionar a função de deletar.
+- Criar uma função que não fique com o banco de dados preso esperando por cadastro.
+- Melhorar o layout da tela para ficar responsivo.
+- Melhorar a listagem de demandas.
+- Criar funções praticas para o trabalho.
